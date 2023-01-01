@@ -27,6 +27,24 @@
 
 #### 03-1 첫 프로젝트 만들기
 
+#### 03-2 에뮬레이터로 Hello World 앱 실행하기
+
+가상 단말 만들기
+
+에뮬레이터를 사용하여 앱 실행하기
+
+    Shift + F10
+
+#### 03-3 Hello 프로젝트 하나씩 바꾸어보기
+
+MainActivity.java 자세히 살펴보기
+
+    super.onCreate(savedInstanceState); 
+    // super -> 상속 받은 부모의
+    // oncreate -> 함수 호출
+    setContentView(R.layout.activity_main);
+    // setContentView -> 화면에 무엇을 보여줄지 설정
+    // R.layout.activity_main -> 화면 모양의 정보
 
 
 ### 04 실제 단말 연결하기
