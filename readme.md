@@ -46,6 +46,14 @@ MainActivity.java 자세히 살펴보기
     // setContentView -> 화면에 무엇을 보여줄지 설정
     // R.layout.activity_main -> 화면 모양의 정보
 
+버튼 눌렀을 때 메시지가 나타나게 하기
+
+    1. 소스 파일에 이벤트 처리 함수 추가하기
+    // MainActivity.java 파일을 열고 onButton1Clicked라는 이름의 함수를 추가합니다.
+    2. XML 파일의 버튼을 선택하고 onClick 속성 값으로 선택하기
+    // activity_main.xml 파일에 들어 있는 버튼에 onClick 속성 값을 onButtonClicked로 선택합니다.
+    // 이때 함수 이름은 소스 코드(MainActivity.java)에 입력했던 함수 이름과 같습니다.
+
 
 ### 04 실제 단말 연결하기
 
