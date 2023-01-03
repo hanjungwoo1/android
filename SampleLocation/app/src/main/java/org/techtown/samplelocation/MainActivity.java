@@ -18,7 +18,6 @@ import com.yanzhenjie.permission.Action;
 import com.yanzhenjie.permission.AndPermission;
 import com.yanzhenjie.permission.runtime.Permission;
 
-
 public class MainActivity extends AppCompatActivity {
 
     TextView textView;
@@ -46,13 +45,11 @@ public class MainActivity extends AppCompatActivity {
                         Permission.ACCESS_COARSE_LOCATION)
                 .onGranted(new Action<List<String>>() {
                     // Storage permission are allowed.
-                    @Override
                     public void onAction(List<String> permissions){
                         showToast("허용된 권한 개수 : " + permissions.size());
                     }
                 })
                 .onDenied(new Action<List<String>>() {
-                    @Override
                     public void onAction(List<String> permissions){
                         showToast("거부된 권한 개수 : " + permissions.size());
                     }
