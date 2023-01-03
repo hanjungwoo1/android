@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6aa6d46-0a43-4697-a756-9aa8c1218637" name="Changes" comment="FEAT : APP">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="a6aa6d46-0a43-4697-a756-9aa8c1218637" name="Changes" comment="DOCS: readme.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672573907868</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="DOCS: readme.md">
+      <created>1672574476372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672574476372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +79,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="FEAT : APP" />
-    <option name="LAST_COMMIT_MESSAGE" value="FEAT : APP" />
+    <MESSAGE value="DOCS: readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="DOCS: readme.md" />
   </component>
 </project>
