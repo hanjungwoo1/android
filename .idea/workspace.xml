@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6aa6d46-0a43-4697-a756-9aa8c1218637" name="Changes" comment="FEAT : GPS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a6aa6d46-0a43-4697-a756-9aa8c1218637" name="Changes" comment="FEAT : startActivity" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1673778359674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="FEAT : Inflater">
+      <created>1674651949892</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674651949892</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FEAT : startActivity">
+      <created>1674655039538</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674655039538</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +130,8 @@
     <MESSAGE value="FEAT : APP" />
     <MESSAGE value="DOCS: readme.md" />
     <MESSAGE value="FEAT : GPS" />
-    <option name="LAST_COMMIT_MESSAGE" value="FEAT : GPS" />
+    <MESSAGE value="FEAT : Inflater" />
+    <MESSAGE value="FEAT : startActivity" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEAT : startActivity" />
   </component>
 </project>
